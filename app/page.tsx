@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 export default function Home() {
 	return (
 		<div className=''>
-			<span className='text-white/80'>this is in page.tsx</span>
+			<span className='text-white/80'>This is the Home Page</span>
 		</div>
 	);
 }
