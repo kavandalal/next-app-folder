@@ -14,7 +14,7 @@ function GlobalNavbar() {
 		<div className='fixed top-0 z-10 flex w-full flex-col bg-gray-800 lg:bottom-0 lg:z-auto lg:w-72 lg:border-b-0 lg:border-r lg:border-gray-800'>
 			<div className='flex h-14 items-center py-4 px-4 lg:h-auto'>
 				<Link href='/' className='group flex w-full items-center gap-x-2.5' onClick={close}>
-					<div className='h-7 w-7  group-hover:border-white/50'>
+					<div className='h-7 w-7  group-hover:border-white/50 text-white'>
 						Logo
 					</div>
 				</Link>
